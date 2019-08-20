@@ -4,3 +4,5 @@ my_group.each do |my_group|
      #{my_group[:age]} years old 
      #{my_group[:gender]}" 
     end 
+#2002 1936 2010
+
